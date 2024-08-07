@@ -4,10 +4,10 @@ Liev Model Servers are meant to abstract prompt complexity in LLM Prompting.
 
 
 ```
-______________________
-|                     |
+                                ____________________________
+                                |                          |
 | The Liev Dispatcher |-------> | Liev Model Server OpenAI | -----> OpenAI API
-|_____________________|
+                                |__________________________|
 
 
 ```
