@@ -3,6 +3,4 @@ flask>=2.3.3
 flask-httpauth>=4.8.0
 Flask_RESTful>=0.3.10
 python-dotenv>=1.0.0
-openai==0.28.1
-etcd3
-protobuf==3.20.3
+openai==1.35.9
